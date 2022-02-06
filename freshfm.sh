@@ -1,0 +1,1 @@
+wget -O - https://stream3.virtualisan.net/prx/8000/freshfm.mp3 | cvlc  -
